@@ -18,6 +18,9 @@ const makecommits = (x, y) => {
 }
 
 makecommits(3, 4)
+makecommits(3, 4)
+makecommits(3, 4)
+makecommits(3, 4)
 
 
 
