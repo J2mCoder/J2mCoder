@@ -13,7 +13,7 @@ const makecommits = (x, y) => {
     const git = simpleGit();
     git.add('./*')
       .commit("jD " + DATE, { '--date': DATE })
-      .push("branch", "main")
+      .push()
   })
 }
 
