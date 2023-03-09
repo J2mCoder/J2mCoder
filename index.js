@@ -12,7 +12,7 @@ jsonfile.writeFile(FILE_PATH, date, () => {
   const git = simpleGit();
   git.add('./*')
     .commit(DATE, { '--date': DATE })
-    .push()
+    .push("branch", "main")
 })
 
 
