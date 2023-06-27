@@ -11,6 +11,7 @@ const makecommits = n => {
   const date = {
     date: DATE
   }
+  console.log(DATE)
   jsonfile.writeFile(FILE_PATH, date, () => {
     const git = simpleGit();
     git.add('./*')
