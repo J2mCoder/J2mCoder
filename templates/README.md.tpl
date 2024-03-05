@@ -12,8 +12,9 @@
 
 #### 🍴 My recent forks
 {{range recentForks 10}}
-- {{.Name}} - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
