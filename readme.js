@@ -1,47 +1,18 @@
 module.exports = `### Hi there 👋
 
-I create application on the web and share my journey on [Twitter](https://twitter.com/melvynxdev) and [Youtube](https://www.youtube.com/channel/UC5HDIVwuqoIuKKw-WbQ4CvA) !
-
-And... I create online courses in french to help developers to master modern web technologies.
+- 👋 Salut, je suis @J2mCoder
+- 👀 Je m’intéresse au : development des application mobile et web
+- 🌱 J’apprends actuellement : Node.js et React.js
+- 💞️ Je cherche à collaborer sur : Pour l’instant, je n’ai pas besoin de collaborateurs.
+- 📫 Comment me joindre : jeandedieumbumba2802@gmail.com
 
 ### Contact me
 
-* [Twitter](https://twitter.com/melvynxdev)
-* [Youtube](https://www.youtube.com/channel/UC5HDIVwuqoIuKKw-WbQ4CvA)
+* [Instagram](https://www.instagram.com/jeandedieu.mbumba/)
 * [Mail](mailto:contact@melvynx.com)
-* [Linkedin](https://www.linkedin.com/in/melvyn-malherbe/)
+* [Facebook](https://www.facebook.com/J2m22)
 
-### My projects
-
-* [Melvynx](https://melvynx.com)
-
-My personal website, where you can find my projects, my blog and my resume.
-
-* [Codelynx](https://codelynx.dev)
-
-My blog and my newsletter website.
-
-* [Codeline](https://app.codelynx.dev)
-
-My online courses plateforme. I created BeginReact, NextReact and BeginJavaScript.
-
-* [Chat2Code](https://chat2code.dev)
-
-A ChatGPT like application that create and generate component directly in the browser. Stop wasting time copy pasting code from ChatGPT to your editor, Chat2Code bring editor in the chat.
-
-* [QuizUp](https://quizup.app)
-
-Create a quiz with multiple choice and open questions with input. The next generation of quiz.
-
-* [BulkCorrector](https://bulkcorrector.com)
-
-Correct the grammar of an entire book in 5 minutes.
-
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
-
-Added the \`Mon 3 Jan 2022\`
+Added the \`Mardi 5 Jan 2024\`
 
 Last update on <#today_date>
 

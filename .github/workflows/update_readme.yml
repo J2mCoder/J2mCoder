@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # “At 13:37 on every day-of-week from Monday through Friday.”
-    - cron: '03 4 * * *'
+    - cron: "03 4 * * *"
 
 jobs:
   update-readme:
@@ -28,10 +28,10 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Melvynx
-          author_email: melvynmal@gmail.com
+          author_email: jeandedieu@gmail.com
           force: false
           signoff: false
-          message: ':memo: README.md updated by Gabot'
+          message: ":memo: README.md updated by Gabot"
         env:
           # This is necessary in order to push a commit to the repo
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
