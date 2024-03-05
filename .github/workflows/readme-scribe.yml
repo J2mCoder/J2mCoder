@@ -19,7 +19,7 @@ jobs:
           writeTo: "README.md"
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: "Mise à jour du README généré"
           branch: main
