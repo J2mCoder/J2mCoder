@@ -8,26 +8,27 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          ref: main
-      - name: Render Template
-        uses: muesli/readme-scribe@master
+      - uses: actions/checkout@master
+
+      - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: secrets.PERSONAL_GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: Push
-        run: |
-          date > generated.txt
-          git config user.name readme-scribe 🤖
-          git config user.email actions@github.com
-          git add .
-          git commit -m "locally generated"
-          git status
-          git push origin main
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
