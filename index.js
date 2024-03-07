@@ -54,5 +54,5 @@ function creerCommitAutomatique() {
     });
 }
 
-setInterval(creerCommitAutomatique, 5000);
+setInterval(creerCommitAutomatique, 1000);
 
