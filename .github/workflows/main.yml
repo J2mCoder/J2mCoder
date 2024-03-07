@@ -1,7 +1,7 @@
-name: Generate Datas
+name: Générer des données
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 jobs:
   build:
-    name: Jobs to update datas
+    name: Tâches pour mettre à jour les données
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@master
@@ -17,6 +17,7 @@ jobs:
         with:
           github_user_name: J2mCoder
           svg_out_path: dist/github-contribution-grid-snake.svg
+
       #- uses: crazy-max/ghaction-github-pages@v4
       #with:
       #target_branch: output
