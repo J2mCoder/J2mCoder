@@ -1,19 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+J2mCoder!;" />
 </h1>
-
-👋 Salut, je suis <h1>Jean de Dieu Mbumba</h1>
-
-- 👀 Je m’intéresse au : development des application mobile et web
-- 🌱 J’apprends actuellement : Node.js et React.js
-- 💞️ Je cherche à collaborer sur : Pour l’instant, je n’ai pas besoin de collaborateurs.
-- 📫 Comment me joindre : jeandedieumbumba2802@gmail.com
-
 <br/>
-
 <h3 align="center">Passionné par le développement web et mobile 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2mcoder&label=Profile%20views&color=0e75b6&style=flat" alt="j2mcoder" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
