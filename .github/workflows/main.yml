@@ -1,7 +1,7 @@
 name: Générer des données
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "* * * * * index.js"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -24,3 +24,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.PRSONAL_GITHUB_TOKEN }}
+      - name: Exécuter le script
+        run: node ./index.js
