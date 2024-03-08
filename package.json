@@ -1,0 +1,16 @@
+{
+  "name": "j2mcoder",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img src=\"https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+J2mCoder!;\" />\r </h1>\r <br/>\r <h3 align=\"center\">Passionné par le développement web et mobile 🚀</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.22.0"
+  }
+}
