@@ -4,7 +4,7 @@
 <br/>
 <h3 align="center">Passionné par le développement web et mobile 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j2mcoder&label=Profile%20views&color=0e75b6&style=flat" alt="j2mcoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j2mCoder&label=Profile%20views&color=0e75b6&style=flat" alt="j2mcoder" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
