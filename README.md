@@ -1,5 +1,5 @@
 <div align="center" style="width: 90%;">
-  <img height="150" style="width: 100%;" src="./img/img.webp"  />
+  <img height="200" style="width: 100%;" src="./img/img.webp"  />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+J2mCoder!;" />
