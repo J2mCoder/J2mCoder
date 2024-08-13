@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+J2mCoder!;" />
 </h1>
-<div align="center" style="border-bottom: 1px solid gray">
+<div align="center">
   <a href="mailto:jeandedieumbumba2802@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
+<hr>
 <h3 align="center">Passionné par le développement web et mobile 🚀</h3>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j2mcoder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="j2mcoder" /></p>
