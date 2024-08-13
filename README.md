@@ -20,7 +20,7 @@
 </div>
 <br>
 <p align="center">
-  Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en **Node.js**, **React.js**, et **PHP**. Mon travail se concentre sur la création d'applications web modernes et performantes, en mettant l'accent sur une expérience utilisateur fluide et intuitive.
+  Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en <b>Node.js</b>, <b>React.js</b>, et <b>PHP</b>. Mon travail se concentre sur la création d'applications web modernes et performantes, en mettant l'accent sur une expérience utilisateur fluide et intuitive.
 </p>
 
 
