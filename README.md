@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j2mcoder&show_icons=true&locale=en&layout=compact" alt="j2mcoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=j2mcoder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="j2mcoder" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j2mcoder&show_icons=true&locale=en" alt="j2mcoder" /></p>
 <div align="center">
 🔭 I’m currently working on a marketplace
