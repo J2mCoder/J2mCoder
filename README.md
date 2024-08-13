@@ -6,12 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2mCoder&label=Profile%20views&color=0e75b6&style=flat" alt="j2mcoder" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="mailto:jeandedieumbumba2802@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jean-de-dieu-mbumba-7415ba291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=j2mcoder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="j2mcoder" /></p>
