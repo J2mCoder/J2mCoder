@@ -18,8 +18,11 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
-<hr>
-<h3 align="center">Passionné par le développement web et mobile 🚀</h3>
+
+<p align="center">
+  Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en **Node.js**, **React.js**, et **PHP**. Mon travail se concentre sur la création d'applications web modernes et performantes, en mettant l'accent sur une expérience utilisateur fluide et intuitive.
+</p>
+
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j2mcoder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="j2mcoder" /></p>
 <br>
