@@ -40,7 +40,7 @@ Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en
 
 <h2>📫 Contactez-moi :</h2> 
 
-  Toujours ouvert à discuter de nouvelles idées, collaborations ou opportunités de développement. Vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/jean-de-dieu-mbumba-7415ba291/) ou me contacter via [email](mailto:jeannedieumbumba2802@gmail.com).
+  Toujours ouvert à discuter de nouvelles idées, collaborations ou opportunités de développement. Vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/jean-de-dieu-mbumba-7415ba291/) ou me contacter via [email](mailto:jeandedieumbumba2802@gmail.com).
 
 
 <h2>📊 Mes Statistiques GitHub</h2>
