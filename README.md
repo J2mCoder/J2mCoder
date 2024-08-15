@@ -26,7 +26,7 @@ Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en
 
 <h2>🚀 Mes compétences incluent :</h2>
 <ul>
-  <li>Développement de **backend** robuste avec <b>Node.js</b> et <b>PHP</b></li>
+  <li>Développement de <b>backend</b> robuste avec <b>Node.js</b> et <b>PHP</b></li>
   <li>Création d'interfaces utilisateur dynamiques avec <b>React.js</b></li>
   <li>Intégration et gestion de bases de données <b>SQL</b> et <b>MongoDB</b></li>
   <li>Conception d'API RESTful</li>
