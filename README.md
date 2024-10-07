@@ -22,7 +22,7 @@
 <h1>👋 Salut, je suis <b>j2mCoder</b></h1>
 
 <p>
-Je suis un développeur web passionné avec 2 ans d'expérience, spécialisé en <b>Node.js</b>, <b>React.js</b>, et <b>PHP</b>. Mon travail se concentre sur la création d'applications web modernes et performantes, en mettant l'accent sur une expérience utilisateur fluide et intuitive.</p>
+Je suis un développeur web passionné avec 3 ans d'expérience, spécialisé en <b>Node.js</b>, <b>React.js</b>, et <b>PHP</b>. Mon travail se concentre sur la création d'applications web modernes et performantes, en mettant l'accent sur une expérience utilisateur fluide et intuitive.</p>
 
 <h2>🚀 Mes compétences incluent :</h2>
 <ul>
