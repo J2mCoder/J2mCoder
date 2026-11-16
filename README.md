@@ -28,7 +28,6 @@ I'm **Jean de Dieu Mbumba**, a web and mobile developer based in Kinshasa, DR Co
 - **Frontend** — `React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
 - **Backend** — `Node.js` · `Express.js` · `PHP` · `Python` · `FastAPI` · `REST APIs`
 - **Databases & ORM** — `MongoDB` · `MySQL` · `PostgreSQL` · `Prisma` · `Mongoose` · `Redis`
-- **Artificial Intelligence** — `LLMs` · `Prompt Engineering` · `Function Calling` · `AI Agents` · `RAG` · `Embeddings` · `LangChain` · `Hugging Face` · `Ollama` · `OpenRouter` · `MCP` · `Scikit-learn` · `PyTorch`
 - **DevOps & Tools** — `Git` · `GitHub` · `Docker` · `Linux` · `Postman` · `OpenCode`
 
 ## Current Focus
